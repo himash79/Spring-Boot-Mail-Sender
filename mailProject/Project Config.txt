@@ -1,0 +1,14 @@
+===============================MAIL TRAP CONFIG================================
+01) Create Account "https://mailtrap.io"
+02) Create "Project".
+03) Create "Inbox".
+04) Navigate to inbox and choose intergration type "Java".
+05) Get the "username" & "password".
+
+===============================GMAIL CONFIG====================================
+01) Sign in in your "Gmail" account.
+02) Redirect to "Account" section (Account setting using google menu).
+03) Under Security section turn on "Two Step Varification".
+04) After choose "App Passwords".
+05) Select App section choose "Other" and give a name.
+06) Copy the "password" and add project "property file".
