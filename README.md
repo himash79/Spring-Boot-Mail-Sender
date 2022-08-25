@@ -27,4 +27,4 @@ Build the mail sending application intergrate with Spring Boot with Restful web 
 		
     01) Both Gmail and Mailtrap Configuration.
 		
-06) Expose Rest APIs
+06) Disable Anti-Malware Sotfware and expose Rest APIs
